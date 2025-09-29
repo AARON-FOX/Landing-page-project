@@ -12,11 +12,11 @@ If you want to run this project locally:
 `cd project-name`
 
 2. Install dependencies:
-`npm install`
-# or
-`yarn install`
+  `npm install`
+  or
+  `yarn install`
 
 3. Run the project locally:
-`npm start`
-# or
-`yarn start`
+  `npm start`
+  or
+  `yarn start`
